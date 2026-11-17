@@ -1,0 +1,10 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.env.local
+data/deployment.json
+artifacts/
+cache/
+test-results/
+playwright-report/
+*.log
